@@ -162,4 +162,4 @@ This project is licensed under the MIT License.
 
 ---
 
-* [ ] Would you like me to generate a `requirements.txt` too?
+
